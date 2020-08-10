@@ -4,4 +4,4 @@ I'm a _Berlin Based_ Developer, Product Owner, Automation Engineer, Foodie, and 
 -
 ![](https://github-readme-stats.vercel.app/api?username=ellman121&count_private=true&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ellman121)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ellman121&card_width=600)
