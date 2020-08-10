@@ -1,7 +1,4 @@
-### Guten to the Tag, friends
-
-<!--
-**ellman121/ellman121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Guten, friends
 
 I'm a _Berlin Based_ Developer, Product Owner, Automation Engineer, Foodie, and (most importantly) Gamer.  Thanks to the lovely people at https://github.com/anuraghazra/github-readme-stats, you can find some interesting things below.
 
